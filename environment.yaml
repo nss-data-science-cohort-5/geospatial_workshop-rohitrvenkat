@@ -1,0 +1,15 @@
+name: geospatial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.5
+  - jupyter=1.0.0
+  - matplotlib=3.3.1
+  - geopandas=0.8.1
+  - fiona=1.8.16
+  - shapely=1.7.1
+  - pyproj=2.6.1.post1
+  - six=1.15.0
+  - rtree=0.9.4
+  - descartes=1.1.0
+  - folium=0.11.0
